@@ -13,7 +13,7 @@ class ColorPoint extends Point {
 		super(0, 0);
 		color = "BLACK"; 
 	}
-. 	public ColorPoint(int x, int y) {
+ 	public ColorPoint(int x, int y) {
 		super(x, y);
 		color = "BLACK";
 	}
